@@ -1,5 +1,5 @@
 
-# ZombieX Captcha Bot ✅
+# Captcha Bot ✅
 
 ## Get Started ( For Repil it ) 
 * Go To `Secerts`
